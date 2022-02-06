@@ -1,1 +1,1 @@
-console.log("multiplication of 2 and 3 is 6");
+console.log("multiplication of 2 and 3 is 6...");
